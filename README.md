@@ -20,12 +20,18 @@
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/AmanSin12425272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepaksingh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/oxdeepakkumarsingh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://www.instagram.com/amansinghr8254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepaksingh" height="30" width="40" /></a>
-<!-- <a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a> -->
+<p align="left" style="display: flex; gap: 10px;">
+  <a href="https://x.com/AmanSin12425272" target="blank" style="text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" style="transition: transform 0.3s, filter 0.3s;" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(1.2)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';"/>
+  </a>
+  <a href="https://www.linkedin.com/in/oxdeepakkumarsingh/" target="blank" style="text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" style="transition: transform 0.3s, filter 0.3s;" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(1.2)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';"/>
+  </a>
+  <a href="https://www.instagram.com/amansinghr8254/" target="blank" style="text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" style="transition: transform 0.3s, filter 0.3s;" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(1.2)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';"/>
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -65,7 +71,8 @@
 </p>
 
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=deepakkroxford&&theme=xcode)](https://github.com/deepakkroxford)
+
+why nextjs image is not coming and make the space between each other 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkroxford&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="deepakkroxford" /></p>
 
