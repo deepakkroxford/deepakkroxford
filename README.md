@@ -33,6 +33,17 @@
 </p>
 
 
+<h3 align="left">Coding Platforms:</h3>
+<p align="left" style="display: flex; gap: 10px;">
+  <a href="https://auth.geeksforgeeks.org/user/deepakkr3nbp" target="blank" style="text-decoration: none;">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="gfg" height="30" width="40" style="transition: transform 0.3s, filter 0.3s;" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(1.2)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';"/>
+  </a>
+  <a href="https://leetcode.com/6207724981" target="blank" style="text-decoration: none;">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="40" style="transition: transform 0.3s, filter 0.3s;" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(1.2)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';"/>
+  </a>
+</p>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
